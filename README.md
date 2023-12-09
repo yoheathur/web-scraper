@@ -27,3 +27,6 @@ The script is currently set to scrape `https://example.com`. Modify the `url` va
 
 # Configuration
 No additional configuration is required. To scrape a different website, simply change the url variable in the script to the desired website's URL.
+
+# Disclaimer
+This script is for educational purposes only. Before scraping a website, ensure that you have permission and that your actions comply with the website's terms of service or use policy. Some websites explicitly forbid web scraping in their terms of service.
