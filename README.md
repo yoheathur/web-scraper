@@ -13,3 +13,5 @@ To set up this script, follow these steps:
 2. Clone this repository or download the script file.
 3. Install the required Python libraries.
 
+# Usage
+To run the script, use the following command in the terminal:
