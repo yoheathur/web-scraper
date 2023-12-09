@@ -15,3 +15,7 @@ To set up this script, follow these steps:
 
 # Usage
 To run the script, use the following command in the terminal:
+
+`python web_scraper.py`
+
+The script is currently set to scrape `https://example.com`. Modify the `url` variable in the script to point to your desired webpage.
