@@ -19,3 +19,8 @@ To run the script, use the following command in the terminal:
 `python web_scraper.py`
 
 The script is currently set to scrape `https://example.com`. Modify the `url` variable in the script to point to your desired webpage.
+
+# Features
+- Fetches the HTML content of a webpage using the requests library.
+- Parses the HTML content and extracts the title and all paragraph texts using BeautifulSoup.
+- Outputs the extracted data to the console.
