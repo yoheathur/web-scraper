@@ -24,3 +24,6 @@ The script is currently set to scrape `https://example.com`. Modify the `url` va
 - Fetches the HTML content of a webpage using the requests library.
 - Parses the HTML content and extracts the title and all paragraph texts using BeautifulSoup.
 - Outputs the extracted data to the console.
+
+# Configuration
+No additional configuration is required. To scrape a different website, simply change the url variable in the script to the desired website's URL.
